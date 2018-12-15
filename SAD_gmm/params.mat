@@ -1,0 +1,64 @@
+# Created by Octave 3.8.1, Sat Jul 30 19:45:16 2016 IRDT <shahsavari@ubuntu>
+# name: covType
+# type: sq_string
+# elements: 1
+# length: 8
+diagonal
+
+
+# name: datasetFolder
+# type: sq_string
+# elements: 1
+# length: 37
+/home/shahsavari/dataset_0.1_complete
+
+
+# name: frameSize
+# type: scalar
+0.025
+
+
+# name: frameStep
+# type: scalar
+0.01
+
+
+# name: joinLimit
+# type: scalar
+0.2
+
+
+# name: mdbAddress
+# type: sq_string
+# elements: 1
+# length: 23
+D:\Sajad\dataset_movies
+
+
+# name: noComponents
+# type: matrix
+# rows: 1
+# columns: 4
+ 8 32 128 512
+
+
+# name: noMFCC
+# type: scalar
+13
+
+
+# name: noPLP
+# type: scalar
+8
+
+
+# name: outputAudiosLength
+# type: scalar
+900
+
+
+# name: sharedCov
+# type: bool
+0
+
+
