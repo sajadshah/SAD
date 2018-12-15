@@ -1,4 +1,4 @@
-# Project Title
+# Speech Activity Detection
 
 A speech activity detection using GMM and deep neural network. 
 
